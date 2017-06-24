@@ -1,0 +1,362 @@
+* {
+  margin: 0px;
+  padding: 0px; }
+
+.container {
+  height: 100%;
+  width: 960px;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  overflow: hidden; }
+
+.tab {
+  width: 100%;
+  overflow: hidden; }
+
+#tab1 {
+  height: 737px;
+  display: block;
+  background-image: url(https://static.ladipage.net/d/uploads/images/5768895d-56d2-4dd0-8bbd-25ffefee6c56.jpg);
+  background-size: cover; }
+  #tab1 .widget-content {
+    height: 270px;
+    margin-top: 72px;
+    width: 100%;
+    background-color: rgba(0, 137, 123, 0.58); }
+    #tab1 .widget-content .text {
+      width: 100%;
+      text-align: center;
+      margin-top: 48px; }
+      #tab1 .widget-content .text h3 {
+        font-family: 'Roboto Slab', serif;
+        font-size: 24px;
+        color: #fff; }
+      #tab1 .widget-content .text h1 {
+        color: #ffeb3b;
+        font-size: 54px;
+        font-weight: 700;
+        line-height: 58px;
+        padding: 12px 0px;
+        font-family: "Open Sans", sans-serif !important; }
+      #tab1 .widget-content .text h2 {
+        font-family: "Open Sans" !important;
+        font-size: 24px;
+        font-weight: 700;
+        color: #fff;
+        padding-bottom: 12px; }
+      #tab1 .widget-content .text .line {
+        border-top: 1px solid #ccc;
+        margin-top: 12px;
+        width: 270px;
+        margin: auto; }
+      #tab1 .widget-content .text h4 {
+        font-family: "Open Sans" !important;
+        font-size: 16px;
+        font-weight: 300;
+        color: #fff;
+        padding-top: 12px;
+        line-height: 20px;
+        letter-spacing: 2px; }
+  #tab1 .container .area {
+    width: 70%;
+    margin: auto;
+    margin-top: 24px;
+    overflow: hidden; }
+    #tab1 .container .area .left {
+      width: 50%;
+      display: inline-block;
+      float: left; }
+      #tab1 .container .area .left .text {
+        margin-right: 60px;
+        text-align: right; }
+        #tab1 .container .area .left .text h1 {
+          color: #ffeb3b;
+          font-weight: 400;
+          line-height: 58px;
+          font-family: "Lobster" !important;
+          font-size: 54px; }
+        #tab1 .container .area .left .text p {
+          font-family: "Lobster" !important;
+          color: white;
+          font-weight: 400;
+          line-height: 28px;
+          font-size: 24px; }
+    #tab1 .container .area .right {
+      width: 49%;
+      border-left: 2px solid #fff;
+      display: inline-block;
+      float: left; }
+      #tab1 .container .area .right .text {
+        margin-left: 60px;
+        text-align: left; }
+        #tab1 .container .area .right .text h1 {
+          color: #ffeb3b;
+          font-weight: 400;
+          line-height: 58px;
+          font-family: "Lobster" !important;
+          font-size: 54px; }
+        #tab1 .container .area .right .text p {
+          font-family: "Lobster" !important;
+          color: white;
+          font-weight: 400;
+          line-height: 28px;
+          font-size: 24px; }
+  #tab1 .container .phone {
+    width: 50%;
+    margin: auto;
+    margin-top: 36px;
+    text-align: center; }
+    #tab1 .container .phone i {
+      font-size: 3em;
+      padding: 24px 28px;
+      border-radius: 100%;
+      border: 4px solid #fff;
+      color: #fff; }
+    #tab1 .container .phone h6 {
+      color: white;
+      font-weight: 400;
+      line-height: 49px;
+      letter-spacing: 5px;
+      font-family: "Open Sans" !important;
+      font-size: 36px;
+      padding-top: 12px; }
+
+#tab2 {
+  height: 532px; }
+  #tab2 .widget-content .title {
+    margin-top: 48px;
+    width: 100%;
+    text-align: center; }
+    #tab2 .widget-content .title h3 {
+      font-family: "Open Sans" !important;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 28px;
+      padding: 12px; }
+    #tab2 .widget-content .title p {
+      font-family: "Open Sans" !important;
+      color: #757575;
+      font-weight: 300;
+      line-height: 22px;
+      font-size: 16px; }
+  #tab2 .widget-content .list-box {
+    margin-top: 36px; }
+    #tab2 .widget-content .list-box .box {
+      margin-top: 36px;
+      width: 33.33%;
+      display: inline-block;
+      overflow: hidden;
+      float: left; }
+      #tab2 .widget-content .list-box .box .icon {
+        width: 15%;
+        display: inline-block;
+        float: left; }
+        #tab2 .widget-content .list-box .box .icon i {
+          color: #009906;
+          font-size: 2em;
+          text-align: center; }
+      #tab2 .widget-content .list-box .box .text {
+        width: 70%;
+        float: left;
+        display: inline-block; }
+        #tab2 .widget-content .list-box .box .text h4 {
+          font-family: "Open Sans", sans-serif !important;
+          color: #3d3d3d;
+          font-weight: 400;
+          line-height: 22px;
+          font-size: 18px;
+          padding-bottom: 12px; }
+        #tab2 .widget-content .list-box .box .text p {
+          font-family: "Open Sans", sans-serif !important;
+          color: #595959;
+          font-weight: 400;
+          line-height: 19px;
+          font-size: 13px; }
+
+#tab3 {
+  height: 628px;
+  background-color: #f2f2f2; }
+  #tab3 .widget-content .title {
+    margin-top: 48px;
+    width: 100%;
+    text-align: center; }
+    #tab3 .widget-content .title h3 {
+      font-family: "Open Sans" !important;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 28px;
+      padding: 12px; }
+    #tab3 .widget-content .title p {
+      font-family: "Open Sans" !important;
+      color: #757575;
+      font-weight: 300;
+      line-height: 22px;
+      font-size: 16px;
+      width: 80%;
+      margin: auto; }
+  #tab3 .widget-content .detail {
+    margin-top: 60px; }
+    #tab3 .widget-content .detail .img {
+      display: inline-block;
+      float: left;
+      width: 450px;
+      height: 300px;
+      overflow: hidden;
+      background-image: url(https://static.ladipage.net/d/uploads/images/023baa94-ba62-43f0-9148-1bc5b875894c.jpg); }
+      #tab3 .widget-content .detail .img .boder {
+        height: 270px;
+        margin: 12px;
+        border: 1px solid #009906; }
+    #tab3 .widget-content .detail .text {
+      width: 486px;
+      margin-left: 24px;
+      float: left;
+      display: inline-block;
+      overflow: hidden; }
+      #tab3 .widget-content .detail .text h3 {
+        font-family: "Open Sans" !important;
+        color: #4a4a4a;
+        font-weight: 700;
+        line-height: 22px;
+        font-size: 14px;
+        margin: 24px 0px; }
+      #tab3 .widget-content .detail .text p {
+        font-family: "Open Sans" !important;
+        color: #4a4a4a;
+        font-weight: 400;
+        line-height: 21px;
+        font-size: 13px;
+        margin-bottom: 24px; }
+      #tab3 .widget-content .detail .text .line {
+        border-top: 1px solid #ccc;
+        margin-bottom: 24px; }
+      #tab3 .widget-content .detail .text .taget {
+        margin-top: 12px; }
+        #tab3 .widget-content .detail .text .taget i {
+          color: #009906; }
+        #tab3 .widget-content .detail .text .taget strong {
+          color: #404040;
+          font-weight: 700;
+          line-height: 17px;
+          font-size: 13px;
+          font-family: "Open Sans", sans-serif !important; }
+
+#tab4 {
+  height: 888px; }
+  #tab4 .widget-content .title {
+    margin-top: 48px;
+    width: 100%;
+    text-align: center; }
+    #tab4 .widget-content .title h3 {
+      font-family: "Open Sans" !important;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 28px;
+      padding: 12px; }
+    #tab4 .widget-content .title p {
+      font-family: "Open Sans" !important;
+      color: #757575;
+      font-weight: 300;
+      line-height: 22px;
+      font-size: 16px;
+      width: 80%;
+      margin: auto; }
+  #tab4 .widget-content .list-img {
+    margin-top: 48px; }
+    #tab4 .widget-content .list-img .img {
+      width: 480px;
+      height: 348px;
+      display: inline-block;
+      overflow: hidden;
+      float: left; }
+    #tab4 .widget-content .list-img .img1 {
+      background-image: url(https://static.ladipage.net/d/uploads/images/f02d2d11-82d1-4e4f-b7a6-efb2d7fd04e1.jpg); }
+    #tab4 .widget-content .list-img .img2 {
+      background-image: url(https://static.ladipage.net/d/uploads/images/d43c4d80-f52e-4166-862a-58d6176cd854.jpg); }
+    #tab4 .widget-content .list-img .img3 {
+      background-image: url(https://static.ladipage.net/d/uploads/images/18ab7b0a-e22c-4187-817a-add754aaec16.jpg); }
+    #tab4 .widget-content .list-img .img4 {
+      background-image: url(https://static.ladipage.net/d/uploads/images/f02d2d11-82d1-4e4f-b7a6-efb2d7fd04e1.jpg); }
+
+#tab5 {
+  height: 208px;
+  background-color: #009906; }
+  #tab5 .widget-content .text {
+    width: 50%;
+    display: inline-block;
+    float: left; }
+    #tab5 .widget-content .text h1 {
+      font-family: "Open Sans" !important;
+      color: white;
+      font-weight: 300;
+      line-height: 34px;
+      font-size: 30px;
+      margin-top: 48px; }
+    #tab5 .widget-content .text p {
+      font-family: "Open Sans" !important;
+      color: white;
+      font-weight: 300;
+      line-height: 20px;
+      font-size: 16px;
+      padding-top: 12px; }
+  #tab5 .widget-content .phone {
+    display: inline-block;
+    float: left;
+    width: 35%;
+    margin-top: 48px; }
+    #tab5 .widget-content .phone p {
+      font-family: "Open Sans" !important;
+      color: white;
+      font-weight: 400;
+      line-height: 20px;
+      font-size: 16px;
+      padding-left: 120px;
+      padding-top: 6px; }
+      #tab5 .widget-content .phone p i {
+        padding-right: 6px;
+        font-size: 24px; }
+  #tab5 .widget-content .btn {
+    display: inline-block;
+    float: left;
+    width: 15%;
+    margin-top: 72px;
+    text-align: right; }
+    #tab5 .widget-content .btn span {
+      padding: 12px 24px;
+      background: #fff;
+      border-radius: 5px;
+      font-family: "Open Sans" !important;
+      color: #424242;
+      font-weight: 700;
+      line-height: 22px;
+      font-size: 14px; }
+
+#tab6 {
+  height: 676px; }
+  #tab6 .widget-content .text {
+    width: 70%;
+    text-align: center;
+    margin: auto; }
+    #tab6 .widget-content .text h1 {
+      font-family: "Open Sans" !important;
+      font-weight: 300;
+      line-height: 34px;
+      font-size: 30px;
+      margin-top: 60px; }
+    #tab6 .widget-content .text p {
+      font-family: "Open Sans" !important;
+      font-weight: 300;
+      line-height: 20px;
+      font-size: 16px;
+      padding-top: 12px; }
+  #tab6 .widget-content .video {
+    width: 80%;
+    margin: auto;
+    margin-top: 36px;
+    box-shadow: 0px 0px 7px rgba(23, 23, 23, 0.13); }
+    #tab6 .widget-content .video iframe {
+      width: 100%;
+      height: 430px; }
+
+/*# sourceMappingURL=app.css.map */
